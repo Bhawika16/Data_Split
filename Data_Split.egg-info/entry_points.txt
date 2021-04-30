@@ -1,0 +1,3 @@
+[console_scripts]
+train_test_split = Data_Split_by_Bhawika.split_train_validation:main
+
